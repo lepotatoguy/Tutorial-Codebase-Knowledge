@@ -72,7 +72,7 @@ This is a tutorial project of [Pocket Flow](https://github.com/The-Pocket/Pocket
 
 1. Clone this repository
 
-2. Install dependencies:
+2. Install dependencies (python version should be 3.9):
    ```bash
    pip install -r requirements.txt
    ```
